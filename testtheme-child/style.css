@@ -1,0 +1,15 @@
+/*
+Theme Name: Test Child Theme
+Theme URI: http: //mysite.com/
+Description: This is a custom child theme for Salient
+Author: My Name
+Author URI: http: //mysite.com/
+Template: TestTheme
+Version: 0.1
+*/
+
+@import url("../testtheme/style.css");
+
+
+
+
